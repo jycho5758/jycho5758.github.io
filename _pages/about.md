@@ -27,8 +27,10 @@ Experience
 * **Lawrence Livermore National Laboratory**
   * Computational Chemistry & Materials Science Graduate Intern (Jun – Dec 2024)
 
-* **Full-Time Research Intern**, Korea Institute of Science and Technology (Jun – Dec 2020)
-  * DFT study of organic-ligand effects on CeOₓ nanoparticles as radical scavengers for PEMFCs.
+* **Korea Institute of Science and Technology**
 
-* **Visiting Research Student**, Max Planck Institute for Polymer Research (Jul – Oct 2019)
-  * Quantum-mechanical and molecular-dynamics modeling of OLED host materials for a public molecular database.
+  Full-Time Research Intern (Jun – Dec 2020)
+  * Full-Time Research Intern (Jun – Dec 2020)
+
+* **Max Planck Institute for Polymer Research**
+  * Visiting Research Student (Jul – Oct 2019)
