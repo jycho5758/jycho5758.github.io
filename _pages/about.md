@@ -7,11 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Chemistry at the [University of Texas at Austin](https://www.utexas.edu/), working with [Prof. Graeme Henkelman](https://theory.cm.utexas.edu/henkelman/). My research uses computational chemistry to understand the **thermodynamic and kinetic properties of materials for energy storage**, with a focus on solid-state battery materials.
-
-I develop and apply **accelerated atomistic simulation methods** — machine-learning interatomic potentials, adaptive kinetic Monte Carlo, and enhanced sampling — to study ion diffusion and phase transformation mechanisms beyond the reach of conventional molecular dynamics. I expect to graduate in Fall 2026. You can read more about my [research](/research/) and [projects](/projects/), or browse my [publications](/publications/) and [talks](/talks/).
-
-<a href="/files/CV_Jaeyoung_Cho.pdf" target="_blank">📄 Download my full CV (PDF)</a>
+I am a Ph.D. candidate in Chemistry at the [University of Texas at Austin](https://www.utexas.edu/), working with [Prof. Graeme Henkelman](https://theory.cm.utexas.edu/henkelman/). My research uses computational methods to understand the **thermodynamic and kinetic properties of solid-state materials**, including energy materials such as solid-state batteries. I develop and apply **accelerated atomistic simulation methods** — machine-learning interatomic potentials, adaptive kinetic Monte Carlo, and enhanced sampling — to study ion diffusion and phase transformation mechanisms beyond the reach of conventional molecular dynamics. I expect to graduate in **Fall 2026**. For more details, please see my <a href="/files/CV_Jaeyoung_Cho.pdf" target="_blank">CV</a>
 
 Education
 ======
