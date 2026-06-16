@@ -23,13 +23,10 @@ I apply these methods to questions in solid-state batteries and related material
 - **Phase transformation of battery materials** — atomistic mechanisms and kinetic pathways, e.g. phase evolution in boron nitride from large-scale machine-learning molecular dynamics.
 - **Anode-free battery systems** — the role of lithiophilic interphase layers (e.g. Li₂Te) and metal wetting on copper current collectors for stable anode-free all-solid-state lithium batteries.
 
-Selected collaborations
+Selected collaborators
 ======
 - **Prof. David Mitlin** (UT Austin, Austin TX)
-  - Interfacial coatings and SEI design for anode-free batteries.
 - **Dr. Liwen F. Wan & colleagues** (Lawrence Livermore National Laboratory, Livermore CA)
-  — Phase transformation in boron nitride.
 - **Dr. Ieuan D. Seymour** (University of Aberdeen, Aberdeen UK)
-  - Ionic diffusion mechanisms and the Meyer–Neldel rule in solid-state ion conductors and cathode materials.
 
 For a full list of outputs, see my [publications](/publications/) and [talks](/talks/), or download my [CV](/cv/).
