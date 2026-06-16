@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+<a href="/files/CV.pdf" target="_blank">📄 Download my CV (PDF)</a>
+
 
 Education
 ======
