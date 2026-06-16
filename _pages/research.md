@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research uses computational chemistry to understand the **thermodynamic and kinetic properties of materials for energy storage**, with an emphasis on solid-state battery materials. I develop and apply accelerated atomistic simulation methods to reach length and time scales beyond conventional molecular dynamics, and I work closely with experimental collaborators so that theoretical predictions can be tested directly.
+My research uses computational methods to investigate the **thermodynamic and kinetic properties of solid-state materials**, including materials for all solid-state batteries. I develop and apply accelerated atomistic simulation methods to access length and time scales beyond those achievable with conventional molecular dynamics. I also work closely with experimental collaborators to enable direct testing of theoretical predictions.
 
 Accelerated dynamics & sampling methods
 ======
@@ -25,8 +25,9 @@ I apply these methods to questions in solid-state batteries and related material
 
 Selected collaborations
 ======
-- **Prof. David Mitlin** (UT Austin) — interfacial coatings and SEI design for anode-free batteries.
-- **Dr. Liwen F. Wan & colleagues** (Lawrence Livermore National Laboratory) — phase transformation in boron nitride.
-- **Dr. Ieuan D. Seymour** (University of Aberdeen) — ionic diffusion mechanisms and the Meyer–Neldel rule in solid-state ion conductors.
+- **Prof. David Mitlin** (UT Austin, Austin TX)
+  -- Interfacial coatings and SEI design for anode-free batteries.
+- **Dr. Liwen F. Wan & colleagues** (Lawrence Livermore National Laboratory, Livermore CA) — phase transformation in boron nitride.
+- **Dr. Ieuan D. Seymour** (University of Aberdeen, Aberdeen UK) — ionic diffusion mechanisms and the Meyer–Neldel rule in solid-state ion conductors and cathode materials.
 
 For a full list of outputs, see my [publications](/publications/) and [talks](/talks/), or download my [CV](/cv/).
