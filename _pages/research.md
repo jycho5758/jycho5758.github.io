@@ -26,7 +26,7 @@ I apply these methods to questions in solid-state batteries and related material
 Selected collaborations
 ======
 - **Prof. David Mitlin** (UT Austin, Austin TX)
-  -- Interfacial coatings and SEI design for anode-free batteries.
+  - Interfacial coatings and SEI design for anode-free batteries.
 - **Dr. Liwen F. Wan & colleagues** (Lawrence Livermore National Laboratory, Livermore CA) — phase transformation in boron nitride.
 - **Dr. Ieuan D. Seymour** (University of Aberdeen, Aberdeen UK) — ionic diffusion mechanisms and the Meyer–Neldel rule in solid-state ion conductors and cathode materials.
 
