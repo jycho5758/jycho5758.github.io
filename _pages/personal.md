@@ -1,0 +1,48 @@
+---
+title: "Personal"
+permalink: /personal/
+author_profile: true
+---
+
+<!--
+  Travel photos: upload your images to  images/travel/  in the repo, then update
+  the file names below. Recommended size ~1200px wide, .jpg. Add or remove year
+  blocks as needed (keep them newest-first).
+-->
+
+Academic Journey
+======
+
+![Map of my academic journey from Seoul to Mainz, Austin, Livermore, and Boston](/images/academic_journey.svg)
+
+My path has taken me from Seoul — where I studied at Yonsei University, Seoul
+National University, and KIST — to a visiting stay at the Max Planck Institute
+in Mainz, and then to the United States for my Ph.D. at UT Austin and a research
+internship at Lawrence Livermore National Laboratory. *(Replace this with your
+own reflections on the journey.)*
+
+Travel
+======
+
+A few places I've traveled for research, conferences, and beyond.
+
+2025
+------
+
+![Boston, MA — MRS Fall Meeting 2025](/images/travel/2025-boston.jpg)
+
+*Boston, MA — MRS Fall Meeting.*
+
+2024
+------
+
+![Livermore, CA — LLNL 2024](/images/travel/2024-livermore.jpg)
+
+*Livermore, CA — research internship at Lawrence Livermore National Laboratory.*
+
+2019
+------
+
+![Mainz, Germany — Max Planck Institute 2019](/images/travel/2019-mainz.jpg)
+
+*Mainz, Germany — visiting researcher at the Max Planck Institute for Polymer Research.*
