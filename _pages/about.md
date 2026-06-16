@@ -28,9 +28,7 @@ Experience
   * Computational Chemistry & Materials Science Graduate Intern (Jun – Dec 2024)
 
 * **Korea Institute of Science and Technology**
-
   Full-Time Research Intern (Jun – Dec 2020)
-  * Full-Time Research Intern (Jun – Dec 2020)
 
 * **Max Planck Institute for Polymer Research**
   * Visiting Research Student (Jul – Oct 2019)
