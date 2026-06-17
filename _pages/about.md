@@ -13,7 +13,7 @@ I develop and apply **accelerated atomistic simulation methods** — machine-lea
 
 <figure style="text-align:center; margin:1.5em 0;">
   <img src="/images/main_figure.svg" alt="Overview of my research" style="max-width:100%; height:auto;">
-  <figcaption style="font-size:0.9em; color:#777;">A short caption describing your main figure.</figcaption>
+  <figcaption style="font-size:0.9em; color:#777;"> </figcaption>
 </figure>
 
 <a href="/files/CV.pdf" target="_blank">📄 CV (PDF)</a>
