@@ -7,22 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Chemistry at the [University of Texas at Austin](https://www.utexas.edu/), working with [Prof. Graeme Henkelman](https://theory.cm.utexas.edu/henkelman/). My research uses computational chemistry to understand the **thermodynamic and kinetic properties of materials for energy storage**, with a focus on solid-state battery materials.
-
-I develop and apply **accelerated atomistic simulation methods** — machine-learning interatomic potentials, adaptive kinetic Monte Carlo, and enhanced sampling — to study ion diffusion and phase transformation mechanisms beyond the reach of conventional molecular dynamics. I expect to graduate in Fall 2026. You can read more about my [research](/research/) and [projects](/projects/), or browse my [publications](/publications/) and [talks](/talks/).
+I am a Ph.D. candidate in Chemistry at the [University of Texas at Austin](https://www.utexas.edu/), working with [Prof. Graeme Henkelman](https://theory.cm.utexas.edu/henkelman/). My research uses computational methods to understand the **thermodynamic and kinetic properties of solid-state materials**, including energy materials such as solid-state electrolytes and cathodes. I also develop and apply **accelerated atomistic simulation methods** — machine-learning interatomic potentials, adaptive kinetic Monte Carlo, and enhanced sampling — to study ion/defect diffusion and phase transformation mechanisms beyond the timescale of conventional dynamics methods. For more details, please see my <a href="/files/CV.pdf" target="_blank">📄 CV (PDF)</a>.
 
 <figure style="text-align:center; margin:1.5em 0;">
   <img src="/images/main_figure.svg" alt="Overview of my research" style="max-width:100%; height:auto;">
   <figcaption style="font-size:0.9em; color:#777;"> </figcaption>
 </figure>
 
-<a href="/files/CV.pdf" target="_blank">📄 CV (PDF)</a>
-
 Education
 ======
-* **Ph.D. in Chemistry**, University of Texas at Austin, July 2026 (expected)
-  * Advisor: Graeme Henkelman
-  * Dissertation: *Computational Investigation of Ion Diffusion and Phase Transformation Mechanisms in Solid-State Battery Materials Using Machine-Learning Interatomic Potentials*
+* **University of Texas at Austin**
+
+  Ph.D Student in Chemistry, Fall 2026 (expected)
+  
 * **M.S. in Materials Science and Engineering**, Seoul National University, February 2020
   * Advisor: Jang-Joo Kim
   * Thesis: *Modeling Charge Transport in Organic Hosts: BCP and NBPhen*
