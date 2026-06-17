@@ -27,12 +27,12 @@ Experience
 ======
 * **Lawrence Livermore National Laboratory**
 
-  Computational Chemistry & Materials Science Graduate Intern (Jun – Dec 2024)
+  Computational Chemistry & Materials Science Graduate Intern (Jun 2024 – Dec 2024)
 
 * **Korea Institute of Science and Technology**
 
-  Full-Time Research Intern (Jun – Dec 2020)
+  Full-Time Research Intern (Jun 2020 – Dec 2020)
 
 * **Max Planck Institute for Polymer Research**
 
-  Visiting Research Student (Jul – Oct 2019)
+  Visiting Research Student (Jul 2019 – Oct 2019)
