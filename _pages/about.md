@@ -12,11 +12,11 @@ I am a Ph.D. candidate in Chemistry at the [University of Texas at Austin](https
 I develop and apply **accelerated atomistic simulation methods** — machine-learning interatomic potentials, adaptive kinetic Monte Carlo, and enhanced sampling — to study ion diffusion and phase transformation mechanisms beyond the reach of conventional molecular dynamics. I expect to graduate in Fall 2026. You can read more about my [research](/research/) and [projects](/projects/), or browse my [publications](/publications/) and [talks](/talks/).
 
 <figure style="text-align:center; margin:1.5em 0;">
-  <img src="/images/main_figure.png" alt="Overview of my research" style="max-width:100%; height:auto;">
+  <img src="/images/main_figure.svg" alt="Overview of my research" style="max-width:100%; height:auto;">
   <figcaption style="font-size:0.9em; color:#777;">A short caption describing your main figure.</figcaption>
 </figure>
 
-<a href="/files/CV_Jaeyoung_Cho.pdf" target="_blank">📄 Download my full CV (PDF)</a>
+<a href="/files/CV.pdf" target="_blank">📄 CV (PDF)</a>
 
 Education
 ======
