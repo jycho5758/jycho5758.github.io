@@ -3,8 +3,8 @@ title: "Revisiting the Meyer–Neldel Rule for Solid-State Materials: From Simpl
 collection: publications
 category: preprints
 permalink: /publication/2026-meyer-neldel-rule
-status: "Submitted to <i>Journal of Materials Chemistry A</i> (2026)"
-excerpt: 'Re-examining the Meyer–Neldel compensation rule to provide design principles for highly conductive solid-state ion conductors.'
-date: 2026-08-01
-citation: '<b>Jaeyoung Cho</b>, Ieuan D. Seymour, Graeme Henkelman. “Revisiting the Meyer–Neldel Rule for Solid-State Materials: From Simple Metals to Solid-State Electrolytes.” <i>Submitted to Journal of Materials Chemistry A</i> (2026).'
+header:
+  teaser: /images/publications/jmca-meyer-neldel.png
+date: 2026-09-01
+citation: '<b>Cho, J.</b>, Seymour, I. D., &amp; Henkelman, G. (2026). Revisiting the Meyer–Neldel rule for solid-state materials: From simple metals to solid-state electrolytes [Manuscript submitted for publication]. <i>Journal of Materials Chemistry A</i>.'
 ---
