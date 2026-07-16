@@ -1,6 +1,6 @@
 ---
-title: "Anode-Free All-Solid-State Batteries"
-excerpt: "Designing lithiophilic interphases (e.g. Li₂Te) that stabilize lithium deposition on copper current collectors — DFT-guided, with experimental collaborators."
+title: "Mechanistic Studies of Lithium-ion Transport in Solid-State Electrolytes"
+excerpt: "Comprehensive kinetic property analysis of lithium-ion transport in halide solid-state electrolytes via Machine-Learning-Accelerated adaptive kinetic monte carlo."
 collection: portfolio
 header:
   teaser: /images/projects/anode-free.png
