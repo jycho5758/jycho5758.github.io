@@ -6,6 +6,5 @@ permalink: /talks/2025-mrs-fall-halide-akmc
 venue: "Materials Research Society (MRS) Fall Meeting"
 date: 2025-12-01
 location: "Boston, MA, USA"
+citation: '<b>Cho, J.</b>, Seymour, I. D., &amp; Henkelman, G. A. (2025, November–December). Unravelling the diffusion mechanism in halide-type solid-state electrolytes beyond the nanosecond timescale: Adaptive kinetic Monte Carlo with machine-learning potentials [Conference presentation]. Materials Research Society (MRS) Fall Meeting, Boston, MA, United States.'
 ---
-
-Presented at the MRS Fall Meeting (November 30 – December 5, 2025). Authors: Jaeyoung Cho, Ieuan D. Seymour, and Graeme A. Henkelman.
