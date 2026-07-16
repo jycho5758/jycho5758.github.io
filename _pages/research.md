@@ -29,4 +29,4 @@ Selected collaborators
 - **Dr. Liwen F. Wan & colleagues** (Lawrence Livermore National Laboratory, Livermore CA)
 - **Dr. Ieuan D. Seymour** (University of Aberdeen, Aberdeen UK)
 
-For a full list of outputs, see my [publications](/publications/) and [talks](/talks/), or download my [CV](/cv/).
+For a full list of outputs, see my [publications](/publications/) and [talks](/talks/).
