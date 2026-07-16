@@ -2,7 +2,12 @@
 title: "Anode-Free All-Solid-State Batteries"
 excerpt: "Designing lithiophilic interphases (e.g. Li₂Te) that stabilize lithium deposition on copper current collectors — DFT-guided, with experimental collaborators."
 collection: portfolio
+header:
+  teaser: /images/projects/anode-free.png
 ---
+
+<img src="/images/projects/anode-free.png" alt="Anode-free batteries" style="width:180px; height:180px; border-radius:50%; object-fit:cover; float:right; margin:0 0 16px 24px;">
+
 
 ## Motivation
 Anode-free batteries maximize energy density by plating lithium directly onto a

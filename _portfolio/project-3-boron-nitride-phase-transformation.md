@@ -2,7 +2,12 @@
 title: "Phase Transformation in Boron Nitride"
 excerpt: "Large-scale machine-learning molecular dynamics to map phase-transformation pathways and stability in boron nitride."
 collection: portfolio
+header:
+  teaser: /images/projects/boron-nitride.png
 ---
+
+<img src="/images/projects/boron-nitride.png" alt="Boron nitride phase transformation" style="width:180px; height:180px; border-radius:50%; object-fit:cover; float:right; margin:0 0 16px 24px;">
+
 
 ## Motivation
 Boron nitride's polymorphs (and the pathways between them) underpin its use as a

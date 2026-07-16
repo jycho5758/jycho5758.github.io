@@ -2,7 +2,12 @@
 title: "Ion Transport in Halide Solid-State Electrolytes"
 excerpt: "Resolving Li⁺/Na⁺ diffusion mechanisms and the superionic transition using machine-learning-accelerated adaptive kinetic Monte Carlo."
 collection: portfolio
+header:
+  teaser: /images/projects/halide-electrolytes.png
 ---
+
+<img src="/images/projects/halide-electrolytes.png" alt="Halide solid-state electrolytes" style="width:180px; height:180px; border-radius:50%; object-fit:cover; float:right; margin:0 0 16px 24px;">
+
 
 ## Motivation
 Halide-based solid electrolytes are promising superionic conductors, but their
