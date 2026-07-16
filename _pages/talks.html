@@ -5,22 +5,22 @@ permalink: /talks/
 author_profile: true
 ---
 
+{% include base_path %}
+
 {% if site.talkmap_link == true %}
-
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
 {% endif %}
 
-<h2>Talks / Seminar</h2><hr />
+<h2 style="border-bottom:1px solid #eee; padding-bottom:6px; margin-top:38px;">Talks / Seminar</h2>
 {% for post in site.talks reversed %}
   {% unless post.type == "Conference presentation" %}
-    {% include archive-single-talk.html %}
+    <p style="margin:16px 0;">{{ post.citation }}</p>
   {% endunless %}
 {% endfor %}
 
-<h2>Conference</h2><hr />
+<h2 style="border-bottom:1px solid #eee; padding-bottom:6px; margin-top:38px;">Conference</h2>
 {% for post in site.talks reversed %}
   {% if post.type == "Conference presentation" %}
-    {% include archive-single-talk.html %}
+    <p style="margin:16px 0;">{{ post.citation }}</p>
   {% endif %}
 {% endfor %}
