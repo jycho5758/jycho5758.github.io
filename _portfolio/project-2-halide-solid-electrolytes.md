@@ -1,6 +1,6 @@
 ---
-title: "Ion Transport in Halide Solid-State Electrolytes"
-excerpt: "Resolving Li⁺/Na⁺ diffusion mechanisms and the superionic transition using machine-learning-accelerated adaptive kinetic Monte Carlo."
+title: "Anharmonic Origins of Diffusion Prefactros: Meyer-Neldel Rule"
+excerpt: "Revisiting the Meyer-Neldel Rule of Simple Metals to Solid-State Electrolytes: Machine-learning-accelerated MD and adaptive kinetic Monte Carlo."
 collection: portfolio
 header:
   teaser: /images/projects/halide-electrolytes.png
