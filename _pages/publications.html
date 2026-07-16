@@ -5,32 +5,28 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
+{% if site.author.googlescholar %}
+  <p>You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.</p>
 {% endif %}
 
-
-
+{% for category in site.publication_category %}
+  {% assign shown = false %}
+  {% for post in site.publications reversed %}
+    {% if post.category != category[0] %}{% continue %}{% endif %}
+    {% unless shown %}
+      <h2 style="border-bottom:1px solid #eee; padding-bottom:6px; margin-top:38px;">{{ category[1].title }}</h2>
+      {% assign shown = true %}
+    {% endunless %}
+    <div style="display:flex; align-items:flex-start; gap:22px; margin:22px 0; flex-wrap:wrap;">
+      {% if post.header.teaser %}
+      <img src="{{ post.header.teaser }}" alt="{{ post.title }}"
+           style="width:110px; height:110px; border-radius:50%; object-fit:cover; border:1px solid #eaeaea; flex-shrink:0;">
+      {% endif %}
+      <div style="flex:1; min-width:260px;">
+        <p style="margin:0;">{{ post.citation }}</p>
+      </div>
+    </div>
+  {% endfor %}
+{% endfor %}
