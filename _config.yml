@@ -88,7 +88,9 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'
+    title: 'Peer-Reviewed Journal Articles'
+  reviews:
+    title: 'Review & Tutorial Articles'
   preprints:
     title: 'Manuscripts in Preparation & Under Review'
   conferences:
