@@ -1,6 +1,6 @@
 ---
-title: "Side Project 1 (placeholder)"
-excerpt: "A one-line description of this side project — replace with your own."
+title: "Interfacial coatings and SEI design for anode-free batteries"
+excerpt: "TBD."
 collection: portfolio
 project_type: side
 header:
@@ -10,10 +10,10 @@ header:
 <img src="/images/projects/side-1.png" alt="Side project 1" style="width:180px; height:180px; border-radius:50%; object-fit:cover; float:right; margin:0 0 16px 24px;">
 
 ## Motivation
-Describe the question or goal of this side project.
+TBD.
 
 ## Approach
-Describe the methods used or what you did.
+TBD.
 
 ## Outcome
-Summarize the results, collaborators, or related links.
+TBD.
