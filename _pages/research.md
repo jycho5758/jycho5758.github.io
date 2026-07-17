@@ -30,9 +30,20 @@ My research uses computational chemistry to understand the thermodynamic and kin
 
 Selected collaborations
 ======
-- **Prof. David Mitlin** ([Mitlin Research Group @ UT Austin](https://sites.google.com/view/mitlin-group/home?authuser=0))
-  * Interfacial coatings and SEI design for anode-free batteries.
-- **Dr. Liwen F. Wan** ([Quantum Simulations Group @ Lawrence Livermore National Laboratory](https://qsg.llnl.gov))
-  * Phase tranformation analysis of boron nitride (BN) using machine learning interatomic potential assisted MD.
+
+Recent Works
+------
 - **Dr. Ieuan D. Seymour** ([Seymour Research Group @ University of Aberdeen](https://www.abdn.ac.uk/people/ieuan.seymour))
   * ionic diffusion mechanisms and the Meyer–Neldel rule in solid-state ion conductors.
+- **Dr. Liwen F. Wan** ([Quantum Simulations Group @ Lawrence Livermore National Laboratory](https://qsg.llnl.gov))
+  * Phase tranformation analysis of BN using MLIP assisted MD.
+- **Prof. David Mitlin** ([Mitlin Research Group @ UT Austin](https://sites.google.com/view/mitlin-group/home?authuser=0))
+  * Interfacial coatings and SEI design for anode-free batteries.
+
+Previous Works
+------
+- **Korea Institute of Science and Technology (KIST)** ([Functional Nanomaterials and Interfaces Group](https://sites.google.com/site/jinyclass/home))
+  * DFT study of organic-ligand effects on CeOₓ nanoparticles for PEMFCs.
+- **Max Planck Institute for Polymer Research** ([Organic Electronics Research Group](https://pages-andrienko-10bcaa2045685d6c9509367c68ef5f030a701b968e1f8e8.pages.mpip-mainz.mpg.de))
+  * Multiscale modeling and the molecular library of OLED host materials.
+
