@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Projects"
+title: "Main Projects"
 permalink: /portfolio/
 author_profile: true
 ---
 
 {% include base_path %}
 
-<p>A few of my main research projects. Click any project to read the details.</p>
+<p>Main research projects during my PhD studies. Click any project to read the details.</p>
 
 {% assign main_projects = site.portfolio | where_exp: "item", "item.project_type != 'side'" %}
 {% for post in main_projects %}
