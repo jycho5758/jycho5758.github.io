@@ -7,5 +7,5 @@ header:
   teaser: /images/publications/chemmater-li2femncl4.png
 date: 2026-12-01
 # Preprint available on ChemRxiv — add the verified DOI link in the citation below.
-citation: 'Newnham, J. A., <b>Cho, J.</b>, Jin, T., Still, J. W., Henkelman, G., &amp; Seymour, I. D. (2026). Induced structural disorder enables high ionic conductivity and capacity in Li₂Fe₁₋ₓMnₓCl₄ cathodes [Manuscript submitted for publication]. <i>Chemistry of Materials</i>. Preprint: ChemRxiv.'
+citation: 'Newnham, J. A., <b>Cho, J.</b>, Jin, T., Still, J. W., Henkelman, G., &amp; Seymour, I. D. (2026). Induced structural disorder enables high ionic conductivity and capacity in Li₂Fe₁₋ₓMnₓCl₄ cathodes [Under Review]. <i>Chemistry of Materials</i>. Preprint: ChemRxiv.'
 ---
