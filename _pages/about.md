@@ -16,22 +16,19 @@ I develop and apply **accelerated atomistic simulation methods** — machine-lea
 Education
 ======
 * **Ph.D. Candidate in Chemistry**, University of Texas at Austin, 2026 Fall (expected)
-  * Advisor: Graeme Henkelman
-  * Dissertation: *Computational Investigation of Ion Diffusion and Phase Transformation Mechanisms in Solid-State Battery Materials Using Machine-Learning Interatomic Potentials*
 * **M.S. in Materials Science and Engineering**, Seoul National University, February 2020
-  * Thesis: *Modeling Charge Transport in Organic Hosts: BCP and NBPhen*
 * **B.S. in Chemistry & B.S. in Materials Science and Engineering**, Yonsei University, February 2018
 
 Experience
 ======
+* **University of Texas at Austin**, (Fall 2022 – )
+  * Graduate Research Assistant
+
 * **Lawrence Livermore National Laboratory**, (Jun – Dec 2024)
-  Computational Chemistry & Materials Science Graduate Intern
+  * Computational Chemistry & Materials Science Graduate Intern
 
-* **Full-Time Research Intern**, Korea Institute of Science and Technology (Jun – Dec 2020)
-  * DFT study of organic-ligand effects on CeOₓ nanoparticles as radical scavengers for PEMFCs.
+* **Korea Institute of Science and Technology**, (Jun – Dec 2020)
+  * Full-Time Research Intern
 
-* **Visiting Research Student**, Max Planck Institute for Polymer Research (Jul – Oct 2019)
-  * Quantum-mechanical and molecular-dynamics modeling of OLED host materials for a public molecular database.
-
-* **Graduate Research Assistant**, Seoul National University (Jan 2018 – Jan 2020)
-  * Charge-transport modeling in organic hosts using DFT, polarizable-force-field MD, and kinetic Monte Carlo.
+* **Max Planck Institute for Polymer Research**, (Jul – Oct 2019)
+  * Visiting Research Student
