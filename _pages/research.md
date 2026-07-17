@@ -30,6 +30,9 @@ My research uses computational chemistry to understand the thermodynamic and kin
 
 Selected collaborations
 ======
-- **Prof. David Mitlin** (UT Austin) — interfacial coatings and SEI design for anode-free batteries.
-- **Dr. Liwen F. Wan & colleagues** (Lawrence Livermore National Laboratory) — phase transformation in boron nitride.
-- **Dr. Ieuan D. Seymour** (University of Aberdeen) — ionic diffusion mechanisms and the Meyer–Neldel rule in solid-state ion conductors.
+- **[Prof. David Mitlin](https://sites.google.com/view/mitlin-group/home?authuser=0)** (UT Austin)
+  * Interfacial coatings and SEI design for anode-free batteries.
+- **Dr. Liwen F. Wan & colleagues** (Lawrence Livermore National Laboratory)
+  * phase transformation in boron nitride.
+- **Dr. Ieuan D. Seymour** (University of Aberdeen)
+  * ionic diffusion mechanisms and the Meyer–Neldel rule in solid-state ion conductors.
