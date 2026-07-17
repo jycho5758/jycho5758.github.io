@@ -32,7 +32,7 @@ Selected collaborations
 ======
 - **Prof. David Mitlin** ([Mitlin Research Group @ UT Austin](https://sites.google.com/view/mitlin-group/home?authuser=0))
   * Interfacial coatings and SEI design for anode-free batteries.
-- **[Dr. Liwen F. Wan](https://qsg.llnl.gov)** (Lawrence Livermore National Laboratory)
-  * phase transformation in boron nitride.
-- **Dr. Ieuan D. Seymour** (University of Aberdeen)
+- **Dr. Liwen F. Wan** ([Quantum Simulations Group @ Lawrence Livermore National Laboratory](https://qsg.llnl.gov))
+  * Phase tranformation analysis of boron nitride (BN) using machine learning interatomic potential assisted MD.
+- **Dr. Ieuan D. Seymour** ([Seymour Research Group @ University of Aberdeen](https://www.abdn.ac.uk/people/ieuan.seymour))
   * ionic diffusion mechanisms and the Meyer–Neldel rule in solid-state ion conductors.
