@@ -26,7 +26,10 @@ author_profile: true
       {% endfor %}
     {% else %}
       {% for post in cat_posts %}
-        <p style="margin:14px 0;">{{ post.citation }}</p>
+        <div style="display:flex; gap:12px; margin:14px 0;">
+          <span style="flex-shrink:0; color:#555;">&bull;</span>
+          <span style="flex:1;">{{ post.citation }}</span>
+        </div>
       {% endfor %}
     {% endif %}
   {% endif %}
