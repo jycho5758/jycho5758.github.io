@@ -7,9 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-<p>My main research projects during PhD studies. Click any project to read the details.</p>
+<p>A few of my main research projects. Click any project to read the details.</p>
 
-{% for post in site.portfolio %}
+{% assign main_projects = site.portfolio | where_exp: "item", "item.project_type != 'side'" %}
+{% for post in main_projects %}
   <div style="display:flex; align-items:center; gap:26px; margin:30px 0; flex-wrap:wrap;">
     {% if post.header.teaser %}
     <a href="{{ base_path }}{{ post.url }}" style="flex-shrink:0;">
@@ -23,3 +24,22 @@ author_profile: true
     </div>
   </div>
 {% endfor %}
+
+{% assign side_projects = site.portfolio | where: "project_type", "side" %}
+{% if side_projects.size > 0 %}
+  <h2 style="border-bottom:1px solid #eee; padding-bottom:6px; margin-top:44px;">Side Projects</h2>
+  {% for post in side_projects %}
+    <div style="display:flex; align-items:center; gap:26px; margin:30px 0; flex-wrap:wrap;">
+      {% if post.header.teaser %}
+      <a href="{{ base_path }}{{ post.url }}" style="flex-shrink:0;">
+        <img src="{{ post.header.teaser }}" alt="{{ post.title }}"
+             style="width:135px; height:135px; border-radius:50%; object-fit:cover; border:1px solid #eaeaea;">
+      </a>
+      {% endif %}
+      <div style="flex:1; min-width:240px;">
+        <h3 style="margin:0 0 8px 0;"><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></h3>
+        <p style="margin:0; color:#555;">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+      </div>
+    </div>
+  {% endfor %}
+{% endif %}
