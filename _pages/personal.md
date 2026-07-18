@@ -13,7 +13,7 @@ author_profile: true
 Academic Journey
 ======
 
-![Map of my academic journey from Seoul to Mainz, Austin, Livermore, and Boston](/images/world_map.svg)
+![Map of my academic journey from Seoul to Mainz, Austin, Livermore, and Boston](/images/personal/world_map.svg)
 
 My academic journey starts from Seoul, South Korea where I was born, studied at Yonsei University, Seoul
 National University, and KIST — to a visiting stay at the Max Planck Institute
