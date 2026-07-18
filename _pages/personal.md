@@ -23,39 +23,36 @@ internship at Lawrence Livermore National Laboratory.
 Travel
 ======
 
-A few places I've traveled for research, conferences, and vacation.
+A few places I've traveled for research, conferences, and beyond.
 
-2025
-------
+<style>
+  .travel-year { font-weight:600; color:#868686; letter-spacing:1px; margin:34px 0 8px; }
+  .travel-grid { display:grid; grid-template-columns:repeat(3, 1fr); gap:12px; margin-bottom:10px; }
+  .travel-grid a { display:block; position:relative; padding-bottom:70%; overflow:hidden;
+                   border-radius:8px; background:#ececec; }
+  .travel-grid a img { position:absolute; top:0; left:0; width:100%; height:100%;
+                       object-fit:cover; transition:transform .35s ease; }
+  .travel-grid a:hover img { transform:scale(1.06); }
+  @media (max-width:768px) { .travel-grid { grid-template-columns:repeat(2, 1fr); gap:10px; } }
+</style>
 
-![Boston, MA — MRS Fall Meeting 2025](/images/travel/2025-boston.jpg)
+<div class="travel-year">2025</div>
+<div class="travel-grid">
+  <a href="/images/travel/2025-boston-1.jpg" target="_blank"><img src="/images/travel/2025-boston-1.jpg" alt="Boston 2025"></a>
+  <a href="/images/travel/2025-boston-2.jpg" target="_blank"><img src="/images/travel/2025-boston-2.jpg" alt="Boston 2025"></a>
+  <a href="/images/travel/2025-boston-3.jpg" target="_blank"><img src="/images/travel/2025-boston-3.jpg" alt="Boston 2025"></a>
+</div>
 
-*Boston, MA — MRS Fall Meeting.*
+<div class="travel-year">2024</div>
+<div class="travel-grid">
+  <a href="/images/travel/2024-livermore-1.jpg" target="_blank"><img src="/images/travel/2024-livermore-1.jpg" alt="Livermore 2024"></a>
+  <a href="/images/travel/2024-livermore-2.jpg" target="_blank"><img src="/images/travel/2024-livermore-2.jpg" alt="Livermore 2024"></a>
+  <a href="/images/travel/2024-livermore-3.jpg" target="_blank"><img src="/images/travel/2024-livermore-3.jpg" alt="Livermore 2024"></a>
+</div>
 
-2024
-------
-
-![Livermore, CA — LLNL 2024](/images/travel/2024-livermore.jpg)
-
-*Livermore, CA — research internship at Lawrence Livermore National Laboratory.*
-
-2023
-------
-
-![Mainz, Germany — Max Planck Institute 2019](/images/travel/2019-mainz.jpg)
-
-*Mainz, Germany — visiting researcher at the Max Planck Institute for Polymer Research.*
-
-2022
-------
-
-![Mainz, Germany — Max Planck Institute 2019](/images/travel/2019-mainz.jpg)
-
-*Mainz, Germany — visiting researcher at the Max Planck Institute for Polymer Research.*
-
-2022
-------
-
-![Mainz, Germany — Max Planck Institute 2019](/images/travel/2019-mainz.jpg)
-
-*Mainz, Germany — visiting researcher at the Max Planck Institute for Polymer Research.*
+<div class="travel-year">2019</div>
+<div class="travel-grid">
+  <a href="/images/travel/2019-mainz-1.jpg" target="_blank"><img src="/images/travel/2019-mainz-1.jpg" alt="Mainz 2019"></a>
+  <a href="/images/travel/2019-mainz-2.jpg" target="_blank"><img src="/images/travel/2019-mainz-2.jpg" alt="Mainz 2019"></a>
+  <a href="/images/travel/2019-mainz-3.jpg" target="_blank"><img src="/images/travel/2019-mainz-3.jpg" alt="Mainz 2019"></a>
+</div>
