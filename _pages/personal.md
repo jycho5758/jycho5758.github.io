@@ -23,7 +23,7 @@ internship at Lawrence Livermore National Laboratory.
 Travel
 ======
 
-A few places I've traveled for research, conferences, and beyond.
+A few places I've traveled for research, conferences, and vacation.
 
 2025
 ------
@@ -39,7 +39,21 @@ A few places I've traveled for research, conferences, and beyond.
 
 *Livermore, CA — research internship at Lawrence Livermore National Laboratory.*
 
-2019
+2023
+------
+
+![Mainz, Germany — Max Planck Institute 2019](/images/travel/2019-mainz.jpg)
+
+*Mainz, Germany — visiting researcher at the Max Planck Institute for Polymer Research.*
+
+2022
+------
+
+![Mainz, Germany — Max Planck Institute 2019](/images/travel/2019-mainz.jpg)
+
+*Mainz, Germany — visiting researcher at the Max Planck Institute for Polymer Research.*
+
+2022
 ------
 
 ![Mainz, Germany — Max Planck Institute 2019](/images/travel/2019-mainz.jpg)
