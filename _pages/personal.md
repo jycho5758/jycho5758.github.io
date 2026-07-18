@@ -13,13 +13,12 @@ author_profile: true
 Academic Journey
 ======
 
-![Map of my academic journey from Seoul to Mainz, Austin, Livermore, and Boston](/images/academic_journey.svg)
+![Map of my academic journey from Seoul to Mainz, Austin, Livermore, and Boston](/images/world_map.svg)
 
-My path has taken me from Seoul — where I studied at Yonsei University, Seoul
+My academic journey starts from Seoul, South Korea where I was born, studied at Yonsei University, Seoul
 National University, and KIST — to a visiting stay at the Max Planck Institute
-in Mainz, and then to the United States for my Ph.D. at UT Austin and a research
-internship at Lawrence Livermore National Laboratory. *(Replace this with your
-own reflections on the journey.)*
+in Mainz Germany. Next, I started my Ph.D. studies at UT Austin and a research
+internship at Lawrence Livermore National Laboratory.
 
 Travel
 ======
