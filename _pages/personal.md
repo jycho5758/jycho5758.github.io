@@ -50,7 +50,21 @@ A few places I've traveled for research, conferences, and beyond.
   <a href="/images/travel/2024-livermore-3.jpg" target="_blank"><img src="/images/travel/2024-livermore-3.jpg" alt="Livermore 2024"></a>
 </div>
 
-<div class="travel-year">2019</div>
+<div class="travel-year">2023</div>
+<div class="travel-grid">
+  <a href="/images/travel/2019-mainz-1.jpg" target="_blank"><img src="/images/travel/2019-mainz-1.jpg" alt="Mainz 2019"></a>
+  <a href="/images/travel/2019-mainz-2.jpg" target="_blank"><img src="/images/travel/2019-mainz-2.jpg" alt="Mainz 2019"></a>
+  <a href="/images/travel/2019-mainz-3.jpg" target="_blank"><img src="/images/travel/2019-mainz-3.jpg" alt="Mainz 2019"></a>
+</div>
+
+<div class="travel-year">2022</div>
+<div class="travel-grid">
+  <a href="/images/travel/2019-mainz-1.jpg" target="_blank"><img src="/images/travel/2019-mainz-1.jpg" alt="Mainz 2019"></a>
+  <a href="/images/travel/2019-mainz-2.jpg" target="_blank"><img src="/images/travel/2019-mainz-2.jpg" alt="Mainz 2019"></a>
+  <a href="/images/travel/2019-mainz-3.jpg" target="_blank"><img src="/images/travel/2019-mainz-3.jpg" alt="Mainz 2019"></a>
+</div>
+
+<div class="travel-year">2022</div>
 <div class="travel-grid">
   <a href="/images/travel/2019-mainz-1.jpg" target="_blank"><img src="/images/travel/2019-mainz-1.jpg" alt="Mainz 2019"></a>
   <a href="/images/travel/2019-mainz-2.jpg" target="_blank"><img src="/images/travel/2019-mainz-2.jpg" alt="Mainz 2019"></a>
