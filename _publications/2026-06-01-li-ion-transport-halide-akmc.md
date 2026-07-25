@@ -6,5 +6,5 @@ permalink: /publication/2026-li-ion-transport-halide-akmc
 header:
   teaser: /images/publications/acsenergylett-akmc.png
 date: 2026-10-01
-citation: '<b>Jaeyoung Cho</b>, Ieuan D. Seymour, &amp; Graeme Henkelman (2026). Mechanistic studies of Li-ion transport in halide solid-state electrolytes and spinel-type cathodes via machine-learning-accelerated adaptive kinetic Monte Carlo. [In Preparation].'
+citation: '<b>Jaeyoung Cho</b>, Ieuan D. Seymour, &amp; Graeme Henkelman (2026). Mechanistic studies of Li-ion transport in halide solid-state electrolytes and spinel-type cathodes via machine-learning-accelerated adaptive kinetic Monte Carlo. [In Preparation]'
 ---
