@@ -8,7 +8,7 @@ My research uses computational chemistry to understand the thermodynamic and kin
 
 <div style="display:flex; align-items:center; gap:26px; margin:30px 0; flex-wrap:wrap;">
   <a href="/research/accelerated-dynamics/" style="flex-shrink:0;">
-    <img src="/images/research/accelerated-dynamics.png" alt="Accelerated dynamics and sampling methods"
+    <img src="/images/research_1.png" alt="Accelerated dynamics and sampling methods"
          style="width:135px; height:135px; border-radius:50%; object-fit:cover; border:1px solid #eaeaea;">
   </a>
   <div style="flex:1; min-width:240px;">
@@ -19,7 +19,7 @@ My research uses computational chemistry to understand the thermodynamic and kin
 
 <div style="display:flex; align-items:center; gap:26px; margin:30px 0; flex-wrap:wrap;">
   <a href="/research/energy-storage/" style="flex-shrink:0;">
-    <img src="/images/research/energy-storage.png" alt="Materials and systems for energy storage"
+    <img src="/images/research_2.png" alt="Materials and systems for energy storage"
          style="width:135px; height:135px; border-radius:50%; object-fit:cover; border:1px solid #eaeaea;">
   </a>
   <div style="flex:1; min-width:240px;">
@@ -33,17 +33,12 @@ Selected collaborations
 
 Recent Works
 ------
-- **Dr. Ieuan D. Seymour** ([Seymour Research Group @ University of Aberdeen](https://www.abdn.ac.uk/people/ieuan.seymour))
-  * ionic diffusion mechanisms and the Meyer–Neldel rule in solid-state ion conductors.
-- **Dr. Liwen F. Wan** ([Quantum Simulations Group @ Lawrence Livermore National Laboratory](https://qsg.llnl.gov))
-  * Phase tranformation analysis of BN using MLIP assisted MD.
-- **Prof. David Mitlin** ([Mitlin Research Group @ UT Austin](https://sites.google.com/view/mitlin-group/home?authuser=0))
-  * Interfacial coatings and SEI design for anode-free batteries.
+- **Prof. David Mitlin** (UT Austin) — interfacial coatings and SEI design for anode-free batteries.
+- **Dr. Liwen F. Wan & colleagues** (Lawrence Livermore National Laboratory) — phase transformation in boron nitride.
+- **Dr. Ieuan D. Seymour** (University of Aberdeen) — ionic diffusion mechanisms and the Meyer–Neldel rule in solid-state ion conductors.
 
 Previous Works
 ------
-- **Korea Institute of Science and Technology (KIST)** ([Functional Nanomaterials and Interfaces Group](https://sites.google.com/site/jinyclass/home))
-  * DFT study of organic-ligand effects on CeOₓ nanoparticles for PEMFCs.
-- **Max Planck Institute for Polymer Research** ([Organic Electronics Research Group](https://pages-andrienko-10bcaa2045685d6c9509367c68ef5f030a701b968e1f8e8.pages.mpip-mainz.mpg.de))
-  * Multiscale modeling and the molecular library of OLED host materials.
-
+- **Prof. Denis Andrienko** (Max Planck Institute for Polymer Research) — multiscale modeling and the molecular library of OLED host materials.
+- **Prof. Jang-Joo Kim** (Seoul National University) — charge-transport modeling in organic hosts for OLEDs.
+- **Korea Institute of Science and Technology (KIST)** — DFT study of organic-ligand effects on CeOₓ nanoparticles for PEMFCs.
