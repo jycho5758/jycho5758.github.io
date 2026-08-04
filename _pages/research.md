@@ -8,7 +8,7 @@ My research uses computational chemistry to understand the thermodynamic and kin
 
 <div style="display:flex; align-items:center; gap:26px; margin:30px 0; flex-wrap:wrap;">
   <a href="/research/accelerated-dynamics/" style="flex-shrink:0;">
-    <img src="/images/research_1.png" alt="Accelerated dynamics and sampling methods"
+    <img src="/images/research/research_1.png" alt="Accelerated dynamics and sampling methods"
          style="width:135px; height:135px; border-radius:50%; object-fit:cover; border:1px solid #eaeaea;">
   </a>
   <div style="flex:1; min-width:240px;">
@@ -19,7 +19,7 @@ My research uses computational chemistry to understand the thermodynamic and kin
 
 <div style="display:flex; align-items:center; gap:26px; margin:30px 0; flex-wrap:wrap;">
   <a href="/research/energy-storage/" style="flex-shrink:0;">
-    <img src="/images/research_2.png" alt="Materials and systems for energy storage"
+    <img src="/images/research/research_2.png" alt="Materials and systems for energy storage"
          style="width:135px; height:135px; border-radius:50%; object-fit:cover; border:1px solid #eaeaea;">
   </a>
   <div style="flex:1; min-width:240px;">
